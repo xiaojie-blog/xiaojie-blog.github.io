@@ -19,8 +19,13 @@ subtitle: 你好呀，欢迎来到我的小世界
 
 <!-- 个人介绍内容 -->
 <div id="about" class="tab-content" style="display: block;">
-  <p>这个博客是用来记录我的生活、思考和喜欢的作品的。</p>
-  <p>欢迎常来逛逛～</p>
+  <p>你好！我是马笑杰，河北张家口人，目前在河北工程技术学院读网络工程，即将毕业。</p>
+  
+  <p>我喜欢研究网络怎么"跑"得更稳、更快，也喜欢动手搭环境、做实验。从 VLAN 划分到 VRRP 冗余，从防火墙策略到无线 AP 配置，这些事做起来挺有意思的。</p>
+  
+  <p>最近在折腾 Zabbix 监控和 Docker 容器，也在用 AI 帮忙写文档、查资料，确实是提高效率的好工具。</p>
+  
+  <p>这个博客会记录我的一些学习笔记、项目实践和生活感悟，欢迎来聊～</p>
 </div>
 
 <!-- 旅游内容 -->
@@ -48,10 +53,8 @@ subtitle: 你好呀，欢迎来到我的小世界
 <div id="game" class="tab-content" style="display: none;">
   <h2>最近在玩什么 🎮</h2>
   <ul>
-    <li>🎯 <strong>游戏名称1</strong> - 简短评价</li>
-    <li>🎯 <strong>游戏名称2</strong> - 简短评价</li>
-    <li>🎯 <strong>游戏名称3</strong> - 简短评价</li>
-  </ul>
+    <li>🎯 <strong>王者荣耀</strong> - 我是百星高手</li>
+    <li>🎯 <strong>金铲铲</strong> - 宗师在榜</li>
   <p>你最近在玩什么？欢迎推荐给我～</p>
 </div>
 
