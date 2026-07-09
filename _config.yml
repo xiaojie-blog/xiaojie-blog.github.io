@@ -22,6 +22,7 @@ author: 帅哥
 navbar-links:
   关于我: "aboutme"
   博客: ""
+  技术介绍: "/portfolio"   # 添加这一行
 
 ################
 # --- Logo --- #
