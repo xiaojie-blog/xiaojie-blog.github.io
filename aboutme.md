@@ -53,8 +53,9 @@ subtitle: 你好呀，欢迎来到我的小世界
 <div id="game" class="tab-content" style="display: none;">
   <h2>最近在玩什么 🎮</h2>
   <ul>
-    <li>🎯 <strong>王者荣耀</strong> - 我是百星高手</li>
-    <li>🎯 <strong>金铲铲</strong> - 宗师在榜</li>
+    <li><strong>王者荣耀</strong> - 我是百星高手</li>
+    <li><strong>金铲铲</strong> - 宗师在榜</li>
+  </ul>
   <p>你最近在玩什么？欢迎推荐给我～</p>
 </div>
 
